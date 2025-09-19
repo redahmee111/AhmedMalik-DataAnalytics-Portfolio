@@ -9,9 +9,11 @@ Currently enrolled in a **Data Analytics Bootcamp** and building a portfolio of 
 
 ## 🔹 Featured Projects  
 
-- 🟦 [Sales Performance Dashboard – Power BI](./Sales-Dashboard-PowerBI)  
-- 🏡 [Real Estate Market Analysis – SQL](./RealEstate-SQL-Analysis)  
-- 📊 [Financial Planning Tool – Excel](./Financial-Budget-Excel)  
+- Amazon Sales Data Analysis-PowerBI
+- Pakistan Population Density Map- GIS
+- Patient Appointment Data Analysis-SQL
+- Real Estate Data Analysis (EDA)- Python
+- Social Media Marketing Data Analysis-Excel
 
 ---
 
